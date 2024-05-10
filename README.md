@@ -7,3 +7,4 @@ Creating a New Trigger
 Added Code for Committing
 
 Added Goal for checking the code quality 
+Added Goal for checking the code quality 
