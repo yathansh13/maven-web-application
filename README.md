@@ -8,3 +8,5 @@ Added Code for Committing
 
 Added Goal for checking the code quality 
 Added Goal for checking the code quality 
+
+DevOPs Demo CI/CD Pipeline
