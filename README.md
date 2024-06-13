@@ -1,1 +1,1 @@
-Wipro DevOps Training 
+DevOPs CI/CD Implementation
