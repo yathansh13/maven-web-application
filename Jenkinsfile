@@ -28,9 +28,6 @@ pipeline {
         }
         failure {
             echo 'Build Failed'
-            mail to: 'ys560@snu.edu.in',
-                 subject: 'Jenkins Build Failed',
-                 body: 'Check Jenkins for details'
         }
         always {
             echo 'Cleaning up workspace...'
