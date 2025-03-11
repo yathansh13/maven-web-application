@@ -7,6 +7,12 @@ pipeline {
     }
 
     stages {
+        stage('Check Java') {
+            steps {
+                sh 'echo Using Java Version:'
+                sh 'java -version'
+            }
+        }
         stage('Clone Repository') {
             steps {
                 echo "Cloning Repository from ${GIT_REPO}"
